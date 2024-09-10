@@ -1,38 +1,5 @@
-# Welcome to Remix!
+# Remix Tutorial end-state
 
-- [Remix Docs](https://remix.run/docs)
+This is the result of going through the [Remix tutorial](https://remix.run/docs/en/main/start/tutorial).
 
-## Development
-
-From your terminal:
-
-```sh
-npm run dev
-```
-
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/server`
-- `build/client`
+See me [go through the tutorial LIVE](https://www.youtube.com/live/8fPrHRmHKCQ)
